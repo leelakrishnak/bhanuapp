@@ -8,3 +8,7 @@ This is an express and react app can be used to browse a remote machine filesyst
  4. yarn install
  5. yarn start (to run on the terminal)
  6. pm2 start ( to run as a background process)
+ 7. Open browser http://localhost:5002/
+ 
+ 
+ ![Test Image 1](https://github.com/leelakrishnak/bhanuapp/blob/master/screenshot.png)
