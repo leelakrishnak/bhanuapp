@@ -1,6 +1,6 @@
 # bhanuapp
 
-This is an express and react app can be used to browse a remote machine filesystem
+This is an express (backend), react (frontend) app, it is used to browse a remote machine filesystem, works for Linux, Windows and MAC.
 
 # How to run the app
  1. Install node , npm and yarn. (follow https://phoenixnap.com/kb/how-to-install-yarn-ubuntu)
