@@ -1,0 +1,24 @@
+{
+  "name": "simpler_server",
+  "version": "1.0.0",
+  "description": "Simple express server to list files",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "leelakrishnak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "list-react-files": "^0.2.0",
+    "serve-index": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "pm2": "^4.4.0"
+  }
+}

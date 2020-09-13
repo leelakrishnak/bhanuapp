@@ -1,0 +1,17 @@
+.list-container {
+  width: 60%;
+}
+
+.filter-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px 0px 20px 0px;
+}
+
+.file-item {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
